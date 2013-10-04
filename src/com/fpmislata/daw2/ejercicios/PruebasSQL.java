@@ -2,10 +2,10 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicios;
-import entidadbancaria.EntidadBancaria;
-import entidadbancaria.EntidadBancariaDAO;
-import entidadbancaria.TipoEntidadBancaria;
+package com.fpmislata.daw2.ejercicios;
+import com.fpmislata.daw2.entidadBancaria.EntidadBancaria;
+import com.fpmislata.daw2.dao.EntidadBancariaDAO;
+import com.fpmislata.daw2.entidadBancaria.TipoEntidadBancaria;
 import java.sql.SQLException;
 import java.util.List;
 

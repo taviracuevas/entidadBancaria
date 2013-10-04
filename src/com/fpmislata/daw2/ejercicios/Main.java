@@ -2,14 +2,14 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicios;
+package com.fpmislata.daw2.ejercicios;
 
-import entidadbancaria.CuentaBancaria;
-import entidadbancaria.EntidadBancaria;
-import entidadbancaria.MovimientoBancario;
-import entidadbancaria.SucursalBancaria;
-import entidadbancaria.TipoEntidadBancaria;
-import entidadbancaria.TipoMovimientoBancario;
+import com.fpmislata.daw2.entidadBancaria.CuentaBancaria;
+import com.fpmislata.daw2.entidadBancaria.EntidadBancaria;
+import com.fpmislata.daw2.entidadBancaria.MovimientoBancario;
+import com.fpmislata.daw2.entidadBancaria.SucursalBancaria;
+import com.fpmislata.daw2.entidadBancaria.TipoEntidadBancaria;
+import com.fpmislata.daw2.entidadBancaria.TipoMovimientoBancario;
 import java.math.BigDecimal;
 import java.text.DateFormat;
 import java.util.Date;
